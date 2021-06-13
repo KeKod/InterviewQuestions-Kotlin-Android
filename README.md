@@ -7,9 +7,9 @@ Tr-
     3a- En doğru vararg kullanımı nedir?
     3b- Kullanımlar arasında performans farkı var mıdır?
 4- Fonksiyon parametrelerinin değerini değiştirebilir miyiz?
-5- Infix metodlar ne yarar?
+5- Infix metodlar ne işe yarar?
 6- Interface'ler varken neden Higher Order kullanılıyor?
-7- Bir değişkeni Extension yazabilir misin?
+7- Bir değişkeni Extension olarak yazabilir misin?
 8- Kotlin Encapsulation kuralarını çiğniyor mu? // Kotlin'de nasıl Encapsulation yapılır?
 9- Bir class Interface'den miras (inheritance) alabilir mi?
 10- Hangi durumlarda Interface'nin fonksiyonlarını çiğnemek (override) zorunda değiliz?
