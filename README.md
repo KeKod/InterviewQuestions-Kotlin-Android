@@ -1,6 +1,5 @@
 # InterviewQuestions-Kotlin-Android
-
-Tr-
+Tr-=
 1-"Boolean?" dönüş tipleri nelerdir?
 2- Eğer bir fonksiyon içinde dışarıdan referans gelen bir değişkenin değeri değişirse dışarıda ki değişkenin değeri değişir mi?
 3- Bir fonksiyona parametre tanımlarken;
@@ -33,3 +32,34 @@ En-
 10- Which situations we don't have to override a Interface's functions?
 11- Why we can declare fields in Interface?
 12- What is the difference a++ and ++a?
+
+
+
+Interface ile  Abstract classlar arasındaki farklar nelerdir? 
+
+Bir interface yapısındaki initial değer alan interfaceler  başka bir interface implement edildikten sonra üye fonksiyonları override ediliyor. Child olarak implement edilen interface yapısını açıklayabilir misin? 
+
+class F : E(), B    hangisi interface? 
+
+class default olarak hangi tip alır ? 
+
+Operator Overloading nedir ? 
+
+128 sayısı bir değişkene atanırken default olarak hangi tipde atanır ? 
+
+
+== === farkı nedir ? 
+
+aşağadaki kod hangi fonksiyon yapısına örnektir. 
+fun String.printLog() {
+    println(this)
+    println("--------------------")
+}
+
+Polymorphism nedir ? 
+
+Encapsulation tanımı ve nasıl yapılır ? 
+
+Default olarak değişkenler public geldiği halde bir class neden miras edilemiyor? 
+
+Bir class içerisindeki init block ve constructor bulunuyor? Çalışma şeklini açıklar mısın? 
