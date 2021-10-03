@@ -32,7 +32,7 @@ fun String.printLog() {
 22. Polymorphism nedir ?
 23. Encapsulation tanımı ve nasıl yapılır ?
 24. Default olarak değişkenler public geldiği halde bir class neden miras edilemiyor?
-25. Bir class içerisindeki init block ve constructor bulunuyor? Çalışma şeklini açıklar mısın? 
+25. Bir class içerisindeki **init** block ve **constructor** bulunuyor? Çalışma şeklini açıklar mısın? 
 
 --- 
 
